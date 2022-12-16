@@ -1,2 +1,1 @@
 # arpify
-# Wilfried SC
